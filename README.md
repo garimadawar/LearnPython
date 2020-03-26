@@ -1,2 +1,3 @@
-# garimadawar28-gmail.com
-LearningPython
+# LearnPython
+LearningPython with Ivan Lourenço Gomes on Udemy.
+
